@@ -5,7 +5,7 @@ Colorado.
 
 ## Website:
 
-Pages pushed to the `gh-pages` branch of this repository will appear at
+Pages pushed to the `master` branch of this repository will appear at
 http://www.clawpack.org/geoclawdev-2018/.
 
 ## Suggesting projects:
